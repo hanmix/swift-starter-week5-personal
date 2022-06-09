@@ -10,7 +10,10 @@ import Foundation
 let choPsy = TalentedPerson(name: "코사이", height: 170, singing: .C, dancing: .B, acting: .A)
 let dancingMachine = TalentedPerson(name: "댄싱머신", height: 167, singing: .A, dancing: .A, acting: .C)
 let justBadGuy = TalentedPersonWithBadPersonality(name: "벧가이", height: 180, singing: .A, dancing: .A, acting: .A, frequencyOfCursing: .A)
-let applicants = [choPsy, dancingMachine, justBadGuy]
+let normalPerson = Person(name: "일반인", height: 180)
+let guitarman = TalentedPerson(name: "기타맨", height: 179, singing: .A, dancing: .B, acting: .B)
+let iphoneLover = Person(name: "아이퐁살앙해", height: 170)
+let applicants = [choPsy, dancingMachine, justBadGuy, normalPerson, guitarman, iphoneLover]
 var auditionManager = AuditionManager(totalApplicatsList: applicants)
 
 auditionManager.cast()

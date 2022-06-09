@@ -15,6 +15,7 @@
 		7A058FF62847AC6C00F94539 /* AuditionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A058FF52847AC6C00F94539 /* AuditionManager.swift */; };
 		7A058FF82847D32E00F94539 /* TalentedPerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A058FF72847D32E00F94539 /* TalentedPerson.swift */; };
 		7A058FFA2847D35400F94539 /* TalentedPersonWithBadPersonality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A058FF92847D35400F94539 /* TalentedPersonWithBadPersonality.swift */; };
+		7AE9A8F528521A660078BAC3 /* Hacker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE9A8F428521A660078BAC3 /* Hacker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		7A058FF52847AC6C00F94539 /* AuditionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuditionManager.swift; sourceTree = "<group>"; };
 		7A058FF72847D32E00F94539 /* TalentedPerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalentedPerson.swift; sourceTree = "<group>"; };
 		7A058FF92847D35400F94539 /* TalentedPersonWithBadPersonality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalentedPersonWithBadPersonality.swift; sourceTree = "<group>"; };
+		7AE9A8F428521A660078BAC3 /* Hacker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hacker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				7A058FF12847A75600F94539 /* Talent.swift */,
 				7A058FF32847A79B00F94539 /* BadPersonality.swift */,
 				7A058FF52847AC6C00F94539 /* AuditionManager.swift */,
+				7AE9A8F428521A660078BAC3 /* Hacker.swift */,
 			);
 			path = "CodeStarter-Week5";
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				7A058FEE2847A65900F94539 /* Person.swift in Sources */,
 				7A058FE72847A63800F94539 /* main.swift in Sources */,
 				7A058FF42847A79B00F94539 /* BadPersonality.swift in Sources */,
+				7AE9A8F528521A660078BAC3 /* Hacker.swift in Sources */,
 				7A058FF82847D32E00F94539 /* TalentedPerson.swift in Sources */,
 				7A058FFA2847D35400F94539 /* TalentedPersonWithBadPersonality.swift in Sources */,
 				7A058FF22847A75600F94539 /* Talent.swift in Sources */,
