@@ -13,11 +13,11 @@ let justBadGuy = TalentedPersonWithBadPersonality(name: "벧가이", height: 180
 let normalPerson = Person(name: "일반인", height: 180)
 let guitarman = TalentedPerson(name: "기타맨", height: 179, singing: .A, dancing: .B, acting: .B)
 let iphoneLover = Person(name: "아이퐁살앙해", height: 170)
-let mySon = Person(name: "nalgangdo", height: 10000)
+//let mySon = Person(name: "nalgangdo", height: 10000)
 let applicants = [choPsy, dancingMachine, justBadGuy, normalPerson, guitarman, iphoneLover]
 var auditionManager = AuditionManager(totalApplicatsList: applicants)
 
 auditionManager.cast()
-let hacker = Hacker()
-hacker.hackPassedApplicantsList()
+//let hacker = Hacker()
+//hacker.hackPassedApplicantsList()
 auditionManager.announcePassedApplicants()

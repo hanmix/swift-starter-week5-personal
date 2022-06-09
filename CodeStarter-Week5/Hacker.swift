@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct Hacker {
-    func hackPassedApplicantsList() {
-        auditionManager.passedApplicatsList.append(mySon)
-    }
-}
+//struct Hacker {
+//    func hackPassedApplicantsList() {
+//        auditionManager.passedApplicatsList.append(mySon)
+//    }
+//}
